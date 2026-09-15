@@ -28,7 +28,17 @@ answer_list = [
 	"sudo rm -fr --no-preserve-root",
 	"KERNEL PANIC!",
 	"Better install Windows...",
-	"Linux isn't for you..."
+	"Linux isn't for you...",
+	"Definitely.",
+	"Of course".,
+	"Yeah.",
+	"For sure!",
+	"unfortunately",
+	"Go for it!",
+	"Im annoyed...",
+	"Go away.",
+	"Nice try.",
+	"Sometimes"
 	]
 
 answer = secrets.choice(answer_list)
