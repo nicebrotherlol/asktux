@@ -30,7 +30,7 @@ answer_list = [
 	"Better install Windows...",
 	"Linux isn't for you...",
 	"Definitely.",
-	"Of course".,
+	"Of course.",
 	"Yeah.",
 	"For sure!",
 	"unfortunately",
